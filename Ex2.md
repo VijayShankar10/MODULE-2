@@ -32,9 +32,10 @@ int main() {
 ```
 ## Output:
 ```
-Volume of Box1 : 210
-Volume of Box2 : 24
-Volume of Box3 : 729
+10
+Long Value is : 10
+20
+Long Value is : 20
 ```
 
 
