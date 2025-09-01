@@ -30,15 +30,14 @@ int main() {
     return 0;
 }
 ```
+
 ## Output:
+<img width="1191" height="321" alt="image" src="https://github.com/user-attachments/assets/a6870834-a333-40aa-bb9a-a04f0e717da7" />
+
+## Result:
 ```
 10
 Long Value is : 10
 20
 Long Value is : 20
 ```
-
-
-## Result:
-<img width="1191" height="321" alt="image" src="https://github.com/user-attachments/assets/a6870834-a333-40aa-bb9a-a04f0e717da7" />
-
