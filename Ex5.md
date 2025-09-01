@@ -36,15 +36,13 @@ int main() {
 ```
 
 
-
 ## Output:
+<img width="853" height="417" alt="image" src="https://github.com/user-attachments/assets/c0a0d761-ad34-4ea2-86bd-5cc4f1be1dcc" />
+
+## Result:
 ```
 10 20
 Sum of two Numbers=30
 10 20 30
 Sum of three Numbers=60
 ```
-
-##Result:
-<img width="853" height="417" alt="image" src="https://github.com/user-attachments/assets/c0a0d761-ad34-4ea2-86bd-5cc4f1be1dcc" />
-
