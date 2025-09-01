@@ -1,5 +1,5 @@
 # Ex.No4
-## Ex.Name: Write a C++ program to add two numbers and three numbers using constructor overloading.
+## Ex.Name: Write a C++ program to overload a function to print Integer data in one and Floating-Point data in another
 ## Date:
 
 ## Aim:
@@ -17,31 +17,32 @@ To demonstrate constructor overloading by performing addition of two and three n
 ```cpp
 #include <iostream>
 using namespace std;
-
-class Addition {
-public:
-    Addition(int a, int b) {
-        cout << "The Sum is " << a+b << endl;
+class stu
+{
+    public:
+    int n1;
+    float n2;
+    void read(){
+        cin >>n1>>n2;
     }
-    Addition(int a, int b, int c) {
-        cout << "The Sum is " << a+b+c << endl;
+    void out(){
+        cout<<"Integer="<<n1<<endl;
+        cout<<"Floating Point="<<n2<<endl;
     }
 };
-
-int main() {
-    Addition obj1(5,6);
-    Addition obj2(2,8,5);
-    return 0;
+int main()
+{
+    stu obj;
+    obj.read();
+    obj.out();
 }
 ```
 
-
-
 ## Output:
-```
-The Sum is 11
-The Sum is 15
-```
-##Result:
-<img width="856" height="251" alt="image" src="https://github.com/user-attachments/assets/a2c90b2a-281c-4abe-8bba-6cbcbca7506e" />
+<img width="669" height="452" alt="image" src="https://github.com/user-attachments/assets/2693018f-f821-4e18-a4f4-e8d0406d8cfd" />
 
+## Result:
+```
+Input: 90 99.98
+Output: Integer=90 Floating Point=99.98
+```
