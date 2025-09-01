@@ -52,11 +52,11 @@ int main() {
 ```
 
 ## Output:
+<img width="1179" height="489" alt="image" src="https://github.com/user-attachments/assets/f2dddd22-57d3-48e9-a2b6-624d4f705ca2" />
+
+## Result:
 ```
 Volume of Box1 : 210
 Volume of Box2 : 24
 Volume of Box3 : 729
 ```
-
-## Result:
-<img width="1179" height="489" alt="image" src="https://github.com/user-attachments/assets/f2dddd22-57d3-48e9-a2b6-624d4f705ca2" />
