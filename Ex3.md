@@ -50,9 +50,10 @@ int main() {
 }
 ```
 
-
-
 ## Output:
+<img width="860" height="511" alt="image" src="https://github.com/user-attachments/assets/b8f55323-3254-4ebe-9aea-135ab91a58ab" />
+
+## Result:
 ```
 Constructor called.
 Volume :24
@@ -60,7 +61,3 @@ Constructor called.
 Volume :210
 Total objects: 2
 ```
-
-##Result:
-<img width="860" height="511" alt="image" src="https://github.com/user-attachments/assets/b8f55323-3254-4ebe-9aea-135ab91a58ab" />
-
